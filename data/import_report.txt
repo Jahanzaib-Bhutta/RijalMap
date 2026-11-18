@@ -1,0 +1,30 @@
+RijalMap import report
+========================
+narrators_duplicate_ids_dropped: 0
+birth_ce_only_not_converted: 1
+narrators_loaded: 24326
+narrators_with_birth_year: 387
+narrators_with_death_year: 3952
+narrators_with_both_years: 376
+relations_loaded: 55674
+relations_dropped_unknown_id: 979
+relations_dropped_self_pair: 7
+hadith_rows_in_file: 34441
+hadith_rows_skipped_junk_number: 71
+hadith_rows_whose_dataset_id_is_reused: 1343
+hadith_exact_duplicates_dropped: 28
+hadith_entries_loaded: 34342
+hadith_entries_without_chain: 96
+chain_members_loaded: 175326
+chain_members_id_not_in_dictionary: 2051
+entries_per_source:
+    Sahih Muslim: 7568
+    Sahih Bukhari: 7370
+    Sunan an-Nasa'i: 5708
+    Sunan Abi Da'ud: 5260
+    Sunan Ibn Majah: 4227
+    Jami' al-Tirmidhi: 4209
+db_rows_narrators: 24326
+db_rows_narrator_relations: 55674
+db_rows_hadith_entries: 34342
+db_rows_chain_members: 175326

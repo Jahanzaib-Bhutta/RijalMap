@@ -1,0 +1,75 @@
+Sahih Bukhari no. 8: 1 chain(s), 4 narrators, 3 links
+
+Chain (entry 8), nearest the collector -> Companion:
+  GREEN   Hanzala bin Abi Sufyan bin 'Abdur Rahm -> 'Ubaidullah bin Musa bin Abi al-Mukhta
+  GREEN   'Ikrama bin Khalid bin al-Aas عكرمة بن -> Hanzala bin Abi Sufyan bin 'Abdur Rahm
+  GREEN   ibn Umar ( عبد الله بن عمر بن الخطاب ( -> 'Ikrama bin Khalid bin al-Aas عكرمة بن
+
+Links by status: {'recorded': 3, 'contradicted': 0, 'not_recorded': 0, 'unidentified': 0}
+Shared narrators: none
+Sahih Bukhari no. 27: 1 chain(s), 5 narrators, 4 links
+
+Chain (entry 27), nearest the collector -> Companion:
+  GREEN   Shu'aib bin Abi Hamza شعيب بن أبي حمزة -> al-Hakm bin Nafi', Abu al-Yaman الحكم 
+  GREEN   al-Zuhri ابن شهاب الزهري‎, محمد بن مسل -> Shu'aib bin Abi Hamza شعيب بن أبي حمزة
+  GREEN   'Amir bin Sa'd ibn Abi Waqqas عامر بن  -> al-Zuhri ابن شهاب الزهري‎, محمد بن مسل
+  GREEN   Sa'd ibn Abi Waqqas ( سعد بن أبي وقاص  -> 'Amir bin Sa'd ibn Abi Waqqas عامر بن 
+
+Links by status: {'recorded': 4, 'contradicted': 0, 'not_recorded': 0, 'unidentified': 0}
+Shared narrators: none
+Sahih Bukhari no. 1835: 1 chain(s), 4 narrators, 3 links
+
+Chain (entry 1742), nearest the collector -> Companion:
+  GREEN   Imam Maalik مالك بن أنس بن مالك بن أبي -> 'Abdullah bin Yusuf al-Tunaysi عبد الل
+  GREEN   Nafie' نافع مولى ابن عمر               -> Imam Maalik مالك بن أنس بن مالك بن أبي
+  GREEN   ibn Umar ( عبد الله بن عمر بن الخطاب ( -> Nafie' نافع مولى ابن عمر
+
+Links by status: {'recorded': 3, 'contradicted': 0, 'not_recorded': 0, 'unidentified': 0}
+Shared narrators: none
+Sahih Bukhari no. 1900: 2 chain(s), 10 narrators, 8 links
+
+Chain (entry 1803), nearest the collector -> Companion:
+  GREEN   Thabit bin Yazid al-Ahwl ثابت بن يزيد  -> Muhammad bin al-Fadl 'Aram محمد بن الف
+  GREEN   'Asim al-Ahwal عاصم الأحول             -> Thabit bin Yazid al-Ahwl ثابت بن يزيد 
+  GREEN   Anas bin Malik ( أنس بن مالك بن النضر  -> 'Asim al-Ahwal عاصم الأحول
+
+Chain (entry 1836), nearest the collector -> Companion:
+  GREEN   al-Laith bin Sa'd الليث بن سعد         -> Yahya bin Yahya bin Bukayr يحيى بن يحي
+  GREEN   'Aqil bin Khalid bin 'Aqil عقيل بن خال -> al-Laith bin Sa'd الليث بن سعد
+  GREEN   al-Zuhri ابن شهاب الزهري‎, محمد بن مسل -> 'Aqil bin Khalid bin 'Aqil عقيل بن خال
+  GREEN   Salim bin 'Abdullah bin 'Umar سالم بن  -> al-Zuhri ابن شهاب الزهري‎, محمد بن مسل
+  GREEN   ibn Umar ( عبد الله بن عمر بن الخطاب ( -> Salim bin 'Abdullah bin 'Umar سالم بن 
+
+Links by status: {'recorded': 8, 'contradicted': 0, 'not_recorded': 0, 'unidentified': 0}
+Shared narrators: none
+Sahih Bukhari no. 4000: 1 chain(s), 5 narrators, 4 links
+
+Chain (entry 3792), nearest the collector -> Companion:
+  GREEN   Isra'il bin Yonus bin Abi Ishaq إسرائي -> al-Fadl bin Dakayn, Abu Na'eem الفضل ب
+  GREEN   Makhariq bin Khalifa/'Abdullah مخارق ب -> Isra'il bin Yonus bin Abi Ishaq إسرائي
+  GREEN   Tariq bin Shahab ( طارق بن شهاب ( رضي  -> Makhariq bin Khalifa/'Abdullah مخارق ب
+  GREEN   ibn Mas'ud ( عبد الله بن مسعود ( رضي ا -> Tariq bin Shahab ( طارق بن شهاب ( رضي 
+
+Links by status: {'recorded': 4, 'contradicted': 0, 'not_recorded': 0, 'unidentified': 0}
+Shared narrators: none
+Sahih Bukhari no. 7000: 1 chain(s), 5 narrators, 4 links
+
+Chain (entry 6728), nearest the collector -> Companion:
+  GREEN   'Abdul Wahid bin Ziyad عبد الواحد بن ز -> Qays bin Hafs قيس بن حفص
+  AMBER   al-Hasan al-Basri الحسن البصري         -> 'Abdul Wahid bin Ziyad عبد الواحد بن ز
+  AMBER   Mujahid bin Jabir مجاهد بن جبر         -> al-Hasan al-Basri الحسن البصري
+  GREEN   'Abdullah bin 'Amr bin al-'Aas ( عبد ا -> Mujahid bin Jabir مجاهد بن جبر
+
+Links by status: {'recorded': 2, 'contradicted': 0, 'not_recorded': 2, 'unidentified': 0}
+Shared narrators: none
+Sahih Muslim no. 8: 1 chain(s), 6 narrators, 5 links
+
+Chain (entry 7378), nearest the collector -> Companion:
+  GREEN   'Ali bin Hafs al-Mada'ini علي بن حفص ا -> Abu Bakr bin Abi Shayba أبو بكر بن أبي
+  GREEN   Shu'bah bin al-Hajjaj شعبة بن الحجاج   -> 'Ali bin Hafs al-Mada'ini علي بن حفص ا
+  GREEN   Khbyb bin 'Abdur Rahman خبيب بن عبد ال -> Shu'bah bin al-Hajjaj شعبة بن الحجاج
+  GREEN   Hafs bin 'Asim bin 'Umar حفص بن عاصم ب -> Khbyb bin 'Abdur Rahman خبيب بن عبد ال
+  GREEN   Abu Hurairah ( أبو هريرة - عبد الرحمن  -> Hafs bin 'Asim bin 'Umar حفص بن عاصم ب
+
+Links by status: {'recorded': 5, 'contradicted': 0, 'not_recorded': 0, 'unidentified': 0}
+Shared narrators: none

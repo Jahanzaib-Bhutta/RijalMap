@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+# Kaggle files are large; download them yourself (see README)
+data/raw/*.csv

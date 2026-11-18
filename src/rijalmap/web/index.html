@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RijalMap</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">RijalMap</div>
+  <form id="number-form" class="row" autocomplete="off">
+    <label class="sr-only" for="source">Book</label>
+    <select id="source"></select>
+    <label class="sr-only" for="number">Hadith number</label>
+    <input id="number" inputmode="numeric" placeholder="Hadith no." size="8" required>
+    <button type="submit" class="primary">Show graph</button>
+  </form>
+  <form id="search-form" class="row search" autocomplete="off">
+    <label class="sr-only" for="q">Search the hadith text</label>
+    <input id="q" type="search" placeholder="Search the hadith text (English or Arabic)" minlength="3" required>
+    <button type="submit">Search</button>
+  </form>
+</header>
+
+<div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+
+<div class="layout">
+  <aside id="side">
+    <section id="results-box" hidden>
+      <h2>Search results</h2>
+      <ul id="results" class="plain"></ul>
+    </section>
+    <section id="summary-box" hidden></section>
+    <section>
+      <h2>Legend</h2>
+      <ul id="legend" class="plain legend"></ul>
+      <p class="fine">Colours describe what the dataset records. They are not a ruling on any hadith or narrator.</p>
+    </section>
+  </aside>
+
+  <main>
+    <div id="cy" role="img" aria-label="Graph of the narrators of the selected hadith"></div>
+    <div id="empty" class="empty"><p>Choose a book and a hadith number,<br>or search the hadith text.</p></div>
+    <div id="detail" class="detail" hidden></div>
+  </main>
+</div>
+
+<script src="/static/vendor/cytoscape.min.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>
